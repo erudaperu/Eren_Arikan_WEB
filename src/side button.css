@@ -1,0 +1,22 @@
+.openbtn {
+    background-color: #555;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.openbtn:hover {
+    background-color: rgba(8, 54, 179, 0.71);
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+.side-nav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
