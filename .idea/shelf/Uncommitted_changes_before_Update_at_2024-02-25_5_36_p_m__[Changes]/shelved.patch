@@ -1,0 +1,27 @@
+diff --git a/side button.css b/src/side button.css
+rename from side button.css
+rename to src/side button.css
+diff --git a/erenarikan.css b/src/erenarikan.css
+rename from erenarikan.css
+rename to src/erenarikan.css
+diff --git a/boxes.css b/src/boxes.css
+rename from boxes.css
+rename to src/boxes.css
+diff --git a/README.md b/src/README.md
+rename from README.md
+rename to src/README.md
+diff --git a/erenarikan.html b/src/erenarikan.html
+rename from erenarikan.html
+rename to src/erenarikan.html
+diff --git a/head.css b/src/head.css
+rename from head.css
+rename to src/head.css
+diff --git a/erenarikan.js b/src/erenarikan.js
+rename from erenarikan.js
+rename to src/erenarikan.js
+diff --git a/side menu.css b/src/side menu.css
+rename from side menu.css
+rename to src/side menu.css
+diff --git a/body.css b/src/body.css
+rename from body.css
+rename to src/body.css
