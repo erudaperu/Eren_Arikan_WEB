@@ -1,0 +1,52 @@
+
+service_title h3 {
+    text-align: center;
+}
+
+.list-item {
+    scale: 5%;
+    transition: 0.3s;
+}
+.side-nav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+.side-nav:hover {
+    width: 250px;
+}
+
+.side-nav a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.side-nav a:hover {
+    color: rgba(148, 0, 0, 0.93);
+}
+#navVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    object-fit: cover;
+    object-position: center;
+}
+.hide-video {
+    display: none;
+}
